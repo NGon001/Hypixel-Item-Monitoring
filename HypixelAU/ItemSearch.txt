@@ -1,0 +1,4 @@
+Livid Dagger,7000000
+Necron's Chestplate,19000000
+Necron's Boots,10000000
+Necron's Leggings,13000000
